@@ -6,9 +6,10 @@ export const PacientesContainer = styled.div`
   padding: 0px 20px;
   h1 {
     font-family: "inter";
-    font-size: 1.375rem;
-    letter-spacing: -0.25px;
+    font-size: 2rem;
+    letter-spacing: 2px;
     margin-bottom: 32px;
+    color: ${props => props.theme.white};
   }
 `;
 
@@ -48,7 +49,7 @@ export const PacientesList = styled.div`
   border-top-right-radius: 8px;
   border-top-left-radius: 8px;
   table {
-    height: 600px;
+    max-height: 600px;
     text-align: left;
     width: 100%;
     border-collapse: collapse;
@@ -76,7 +77,7 @@ export const PacientesList = styled.div`
 
   td {
     background-color: ${(props) => props.theme["blue-300"]};
-    border-top: 4px solid ${(props) => props.theme.white};
+    border-top: 4px solid #212127;
     padding: 1rem;
     font-size: 0.875rem;
     line-height: 1.6;

@@ -1,0 +1,74 @@
+{
+  "pacientes": [
+    {
+      "id": 1,
+      "nome": "cleber",
+      "email": "email@email.com",
+      "cpf": "910.378.880-65",
+      
+      "detalhes": {
+        "id": 2,
+        "nome": "Cleber",
+        "email": "email@email.com",
+        "telefone": "12314123123",
+        "cpf": "910.378.880-65",
+        "endereco": {
+          "logradouro": "teste",
+          "numero": 0,
+          "complemento": "proximo a tal lugar",
+          "bairro": "teste",
+          "cidade": "teste",
+          "uf": "ba",
+          "cep": "teste"
+        },
+        "ativo": true
+      }
+    },
+    {
+      "id": 2,
+      "nome": "Joãozinho",
+      "email": "email@email.com",
+      "cpf": "910.378.880-65",
+      "detalhes": {
+        "id": 2,
+        "nome": "Joãozinho",
+        "email": "email@email.com",
+        "telefone": "12314123123",
+        "cpf": "910.378.880-65",
+        "endereco": {
+          "logradouro": "teste",
+          "numero": 0,
+          "complemento": "proximo a tal lugar",
+          "bairro": "teste",
+          "cidade": "teste",
+          "uf": "ba",
+          "cep": "teste"
+        },
+        "ativo": true
+      }
+    },
+    {
+      "id": 3,
+      "nome": "Marquinhos",
+      "email": "email@email.com",
+      "cpf": "073.286.715-05",
+      "detalhes": {
+        "id": 2,
+        "nome": "Marquinhos",
+        "email": "email@email.com",
+        "telefone": "12314123123",
+        "cpf": "910.378.880-65",
+        "endereco": {
+          "logradouro": "teste",
+          "numero": 0,
+          "complemento": "proximo a tal lugar",
+          "bairro": "teste",
+          "cidade": "teste",
+          "uf": "ba",
+          "cep": "teste"
+        },
+        "ativo": true
+      }
+    }
+  ]
+}

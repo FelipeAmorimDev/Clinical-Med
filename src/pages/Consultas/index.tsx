@@ -1,5 +1,11 @@
 import { PlusSquare } from "@phosphor-icons/react";
-import { PacientesContainer, CadastroBtn, PacientesList } from "../Pacientes/style";
+import {
+  PacientesContainer,
+  CadastroBtn,
+  PacientesList,
+} from "../Pacientes/style";
+
+
 
 export function Consultas() {
   return (

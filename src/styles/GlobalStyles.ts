@@ -7,6 +7,10 @@ export const GlobalStyles = createGlobalStyle`
     box-sizing: border-box;
   }
 
+  body {
+    background-color: #212127;
+  }
+
   img {
     max-width: 100%;
     display: block;
