@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const PacientesContainer = styled.div`
-  max-width: 900px;
+  max-width: 1200px;
   margin: 40px auto 0;
   padding: 0px 20px;
   h1 {
